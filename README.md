@@ -1,5 +1,7 @@
 # Projet Bignum
 
+Implementation of RSA protocol in C++
+
 ## Auteur
 
 MatiBP
