@@ -1,5 +1,4 @@
 #include "Bignum.hpp"
-//Matis Le Bihan
 
 using namespace std;
 
